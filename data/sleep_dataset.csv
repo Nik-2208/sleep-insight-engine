@@ -1,0 +1,7 @@
+Timestamp,Age,Gender,Occupation,Sleep_Duration,Physical_Activity_Level,Stress Level,BMI Category,Heart Rate,Daily Steps,Quality_of_Sleep,Cluster
+2025-07-07 20:06:46,17,Male,Software Engineer,7.6,70,6,Normal,78,14000,7.3,2
+2025-07-07 20:10:06,25,Male,Student,7.0,50,5,Normal,70,5000,7.18,1
+2025-07-07 20:10:11,25,Male,Student,7.0,50,5,Underweight,70,5000,7.18,1
+2025-07-07 20:10:14,25,Male,Student,7.0,50,5,Underweight,70,5000,7.18,1
+2025-07-07 20:10:48,17,Male,Student,7.8,70,6,Underweight,84,14000,7.61,2
+2025-07-07 20:10:52,17,Male,Student,7.8,70,6,Underweight,84,14000,7.61,2
